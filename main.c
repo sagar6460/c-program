@@ -1,0 +1,11 @@
+main() 
+{
+biggest();
+factorial();
+reverse();
+sum();
+pallidrome();
+fibannaci();
+sort();
+sum();
+}
